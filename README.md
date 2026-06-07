@@ -16,10 +16,12 @@ Se aplican conceptos de Programación orientada a objetos como encapsulamiento, 
 El proyecto fue desarrollado a partir de un caso contextualizado, abordando problemáticas reales y proponiendo una solución estructurada, modular y reutilizable.
 
 🧱 Estructura general del proyecto
-
+```text
 📁 src/
 ├── app/         # Clase principal con el método main
-├── model/       # Clases de dominio (Agencia, Cliente, Direccion, GuiaTuristico, etc.).
+└── model/       # Clases de dominio (Agencia, Cliente, Direccion, GuiaTuristico, etc.)
+```
+---
 
  ⚙️ Instrucciones para compilar y ejecutar el proyecto
 
