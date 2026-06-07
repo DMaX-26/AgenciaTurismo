@@ -10,7 +10,7 @@
 📘 Descripción general del sistema
 
 Este proyecto corresponde a la Actividad Sumativa número 1 de la asignatura Desarrollo Orientado a Objetos I.
-Se trata de un sistema correpondiente a una Agencia de turismo que permite gestionar Proveedores, guías turísticos y clientes.
+Se trata de un sistema correspondiente a una Agencia de turismo que permite gestionar Proveedores, guías turísticos y clientes.
 Se aplican conceptos de Programación orientada a objetos como encapsulamiento, polimorfismo y composición.
 
 El proyecto fue desarrollado a partir de un caso contextualizado, abordando problemáticas reales y proponiendo una solución estructurada, modular y reutilizable.
